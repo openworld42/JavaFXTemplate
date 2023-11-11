@@ -1,4 +1,7 @@
-# JavaTemplate
+
+### ! Under construction / setup, do not use (will take some days or weeks) !
+
+# JavaFXTemplate
 
 Provides Java(TM) template files as an aid to start a new project. If you like it (better: if it helped you) please give a star - to motivate me. 
 
